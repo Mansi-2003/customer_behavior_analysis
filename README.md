@@ -77,7 +77,7 @@ This project demonstrates an end-to-end data analytics workflow. It covers loadi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/mansi-2003/customer_behavior_analysis.git
    ```
 2. Install the required Python packages:
 
