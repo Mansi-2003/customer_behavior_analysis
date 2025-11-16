@@ -24,7 +24,6 @@ This project demonstrates an end-to-end data analytics workflow. It covers loadi
 * **Pandas, NumPy, Matplotlib, Seaborn** – Data analysis & visualization
 * **SQL & PostgreSQL** – Querying and database operations
 * **Power BI** – Dashboard creation
-* **Gamma** – Report and presentation design
 * **GitHub** – Version control and project sharing
 
 ---
