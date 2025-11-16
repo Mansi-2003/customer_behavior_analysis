@@ -68,26 +68,7 @@ This project demonstrates an end-to-end data analytics workflow. It covers loadi
 * Identified major trends and patterns
 * Found key factors influencing performance
 * Provided recommendations based on data
-* Created a visually appealing dashboard and report
+* Created a visually appealing dashboard 
 
----
 
-## ▶️ How to Run This Project
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/mansi-2003/customer_behavior_analysis.git
-   ```
-2. Install the required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter notebook and run all cells.
-4. Set up PostgreSQL and import the dataset.
-5. Open the Power BI file to view the dashboard.
-6. View final report & PPT in the `/reports` folder.
-
----
 
