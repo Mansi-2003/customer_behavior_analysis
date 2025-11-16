@@ -62,18 +62,6 @@ This project demonstrates an end-to-end data analytics workflow. It covers loadi
 * Visuals used: bar charts, line charts, KPIs, slicers
 * Showcased trends, patterns, and insights
 
-### 6. Report + PPT in Gamma
-
-* Summarized key insights
-* Highlighted KPIs and business findings
-* Designed a clean and minimal PPT for presentation
-
----
-
-## 📊 Dashboard Snapshot
-
-(Add Power BI dashboard screenshot here)
-
 ---
 
 ## ✅ Results & Insights
